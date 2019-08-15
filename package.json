@@ -1,0 +1,14 @@
+{
+  "name": "Tetris",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "material-ui": "^0.20.2",
+    "react-scripts": "^3.1.1"
+  }
+}
